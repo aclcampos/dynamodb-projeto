@@ -1,0 +1,6 @@
+{
+    "Artist": {"S": "Taylor Swift"},
+    "SongTitle": {"S": "Cardigan"}, 
+    "AlbumTitle": {"S": "Folklore"},
+    "SongYear": {"S": "2020"}
+}

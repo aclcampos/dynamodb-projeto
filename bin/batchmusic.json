@@ -1,0 +1,34 @@
+{
+    "Song": [
+        {
+            "PutRequest": { 
+                "Item": {
+                    "Artist":{"S": "Taylor Swift"},
+                    "SongTitle":{"S": "Lover"},
+                    "AlbumTitle":{"S":"Lover"},
+                    "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": { 
+                "Item": {
+                    "Artist":{"S": "Taylor Swift"},
+                    "SongTitle":{"S": "Style"},
+                    "AlbumTitle":{"S":"1989"},
+                    "SongYear": {"S":"2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": { 
+                "Item": {
+                    "Artist":{"S":"Paramore"},
+                    "SongTitle":{"S": "Fake Happy"},
+                    "AlbumTitle":{"S": "After Laughter"},
+                    "SongYear": {"S":"2017"}
+                }
+            }
+        }
+    ]
+}
